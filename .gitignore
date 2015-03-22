@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore MacOsX files
+.DS_Store
+
+#Ignore node.js files
+node_modules
+
+#Ignore idea files
+.idea
